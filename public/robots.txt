@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://glodi-mputu-portfolio.michelinekalamboyo76.chatgpt.site/sitemap.xml

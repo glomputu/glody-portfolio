@@ -1,0 +1,17 @@
+{
+  "name": "GloDi MPUTU — Portfolio professionnel",
+  "short_name": "GloDi MPUTU",
+  "description": "Portfolio professionnel de GloDi MPUTU, Software Engineer, Back-End Developer et IT Manager.",
+  "lang": "fr",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f1eb",
+  "theme_color": "#0a7f58",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

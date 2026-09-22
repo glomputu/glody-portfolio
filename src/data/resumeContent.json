@@ -1,0 +1,218 @@
+{
+  "fr": {
+    "name": "GloDi MPUTU",
+    "title": "Software Engineer | Back-End Developer | IT Manager",
+    "summary": "Software Engineer et développeur back-end spécialisé en PHP et JavaScript, je conçois, développe et maintiens des applications web et de gestion adaptées aux besoins des entreprises et des institutions. Mon parcours associe développement applicatif, API REST, bases de données, maintenance, sécurité et supervision des services informatiques.",
+    "contact": {
+      "location": "Kinshasa - Ngaliema",
+      "email": "glodymputu243@gmail.com",
+      "phones": ["+243 840 036 474", "+243 832 528 569"]
+    },
+    "sectionLabels": {
+      "profile": "Profil professionnel",
+      "experience": "Expérience professionnelle",
+      "experienceContinued": "Expérience professionnelle - suite",
+      "skills": "Compétences",
+      "education": "Formation",
+      "strengths": "Qualités professionnelles",
+      "languages": "Langues"
+    },
+    "experiences": [
+      {
+        "id": "education-ministry",
+        "organization": "Ministère de l'Éducation Nationale et Nouvelle Citoyenneté",
+        "role": "Stagiaire Développeur d'Applications",
+        "period": "Avril 2026 - présent",
+        "responsibilities": [
+          "Participer au développement et à la maintenance des applications informatiques du ministère.",
+          "Réaliser les tests, corriger les anomalies et assurer la maintenance des applications."
+        ]
+      },
+      {
+        "id": "innovate-for-future",
+        "organization": "Innovate For Future",
+        "role": "Développeur Freelance",
+        "period": "2025",
+        "responsibilities": [
+          "Développer et maintenir des applications web.",
+          "Collaborer avec l'équipe technique pour faire évoluer les applications.",
+          "Intégrer des bases de données et des API REST."
+        ]
+      },
+      {
+        "id": "bemprodec",
+        "organization": "BEMPRODEC ONG",
+        "role": "IT Manager",
+        "period": "Octobre 2023 - présent",
+        "responsibilities": [
+          "Développer, administrer et maintenir des plateformes web.",
+          "Optimiser les performances, la sécurité et la disponibilité des applications."
+        ]
+      },
+      {
+        "id": "sep-congo",
+        "organization": "Sep-Congo",
+        "role": "Développeur Web Freelance",
+        "period": "2023",
+        "responsibilities": [
+          "Concevoir des solutions web adaptées aux besoins.",
+          "Déployer et assurer la maintenance des applications."
+        ]
+      },
+      {
+        "id": "abd-technology",
+        "organization": "ABD Technology",
+        "role": "Responsable des Services Informatiques",
+        "period": "2019 - 2022",
+        "responsibilities": [
+          "Superviser les services et infrastructures informatiques.",
+          "Garantir la disponibilité, la sécurité et les performances des systèmes.",
+          "Coordonner les activités de développement et de maintenance."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "ISP-GOMBE",
+        "degree": "Licence en Informatique de Gestion",
+        "period": "2022 - 2024"
+      },
+      {
+        "institution": "ISP-GOMBE",
+        "degree": "Graduat en Informatique de Gestion",
+        "period": "2019 - 2022"
+      }
+    ],
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Développement d'applications web",
+      "Développement d'applications de gestion",
+      "API REST",
+      "Bases de données",
+      "Maintenance informatique",
+      "Sécurité des systèmes d'information",
+      "Supervision des services informatiques",
+      "Administration des systèmes",
+      "Déploiement d'applications",
+      "Analyse des besoins utilisateurs",
+      "Conception de solutions informatiques"
+    ],
+    "strengths": [
+      "Sens des responsabilités",
+      "Esprit d'analyse",
+      "Résolution de problèmes",
+      "Capacité d'apprentissage",
+      "Adaptabilité"
+    ],
+    "languages": ["Français", "Anglais technique"]
+  },
+  "en": {
+    "name": "GloDi MPUTU",
+    "title": "Software Engineer | Back-End Developer | IT Manager",
+    "summary": "A Software Engineer and back-end developer specializing in PHP and JavaScript, I design, build and maintain web and business applications for companies and institutions. My background combines application development, REST APIs, databases, maintenance, security and IT service supervision.",
+    "contact": {
+      "location": "Kinshasa - Ngaliema",
+      "email": "glodymputu243@gmail.com",
+      "phones": ["+243 840 036 474", "+243 832 528 569"]
+    },
+    "sectionLabels": {
+      "profile": "Professional Profile",
+      "experience": "Professional Experience",
+      "experienceContinued": "Professional Experience - continued",
+      "skills": "Technical and Functional Skills",
+      "education": "Education",
+      "strengths": "Professional Strengths",
+      "languages": "Languages"
+    },
+    "experiences": [
+      {
+        "id": "education-ministry",
+        "organization": "Ministry of National Education and New Citizenship",
+        "role": "Application Developer Intern",
+        "period": "April 2026 - present",
+        "responsibilities": [
+          "Contribute to the development and maintenance of the ministry's software applications.",
+          "Run tests, correct defects and support application maintenance."
+        ]
+      },
+      {
+        "id": "innovate-for-future",
+        "organization": "Innovate For Future",
+        "role": "Freelance Developer",
+        "period": "2025",
+        "responsibilities": [
+          "Develop and maintain web applications.",
+          "Work with the technical team to improve existing applications.",
+          "Integrate databases and REST APIs."
+        ]
+      },
+      {
+        "id": "bemprodec",
+        "organization": "BEMPRODEC NGO",
+        "role": "IT Manager",
+        "period": "October 2023 - present",
+        "responsibilities": [
+          "Develop, administer and maintain web platforms.",
+          "Improve application performance, security and availability."
+        ]
+      },
+      {
+        "id": "sep-congo",
+        "organization": "Sep-Congo",
+        "role": "Freelance Web Developer",
+        "period": "2023",
+        "responsibilities": [
+          "Design web solutions aligned with identified needs.",
+          "Deploy and maintain applications."
+        ]
+      },
+      {
+        "id": "abd-technology",
+        "organization": "ABD Technology",
+        "role": "Head of IT Services",
+        "period": "2019 - 2022",
+        "responsibilities": [
+          "Supervise IT services and infrastructure.",
+          "Maintain system availability, security and performance.",
+          "Coordinate development and maintenance activities."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "ISP-GOMBE",
+        "degree": "Bachelor's Degree in Business Information Systems",
+        "period": "2022 - 2024"
+      },
+      {
+        "institution": "ISP-GOMBE",
+        "degree": "Graduate Degree in Business Information Systems",
+        "period": "2019 - 2022"
+      }
+    ],
+    "skills": [
+      "PHP",
+      "JavaScript",
+      "Web application development",
+      "Business application development",
+      "REST APIs",
+      "Databases",
+      "IT maintenance",
+      "Information systems security",
+      "IT service supervision",
+      "Systems administration",
+      "Application deployment",
+      "User needs analysis",
+      "IT solution design"
+    ],
+    "strengths": [
+      "Sense of responsibility",
+      "Analytical thinking",
+      "Problem solving",
+      "Ability to learn",
+      "Adaptability"
+    ],
+    "languages": ["French", "Technical English"]
+  }
+}
